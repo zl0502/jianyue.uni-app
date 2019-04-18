@@ -1,0 +1,13 @@
+
+._input {
+	height: 50px;
+	border-bottom: 1px solid #eee;
+	margin-bottom: 5px;
+}
+.green-btn{
+		margin-top: 20px;
+		width: 80%;
+		background: #00B26A;
+		color: white;
+}
+

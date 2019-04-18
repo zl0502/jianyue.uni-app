@@ -1,0 +1,16 @@
+
+.nav.data-v-7ed77850 {
+	color: #00b26a;
+	padding-top:10rpx;
+	/* margin-top: 10upx; */
+}
+._input.data-v-7ed77850{
+	margin-top: 50rpx;
+}
+.green-btn.data-v-7ed77850{
+	background: rgb(65,168,99);
+	color: #FFFFFF;
+	/* height: 80upx; */
+	text-align: center;
+}
+

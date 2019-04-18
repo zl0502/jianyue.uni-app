@@ -1,0 +1,26 @@
+
+.nav.data-v-548869da {
+	color: #00b26a;
+	padding-top:10rpx;
+	/* margin-top: 10upx; */
+}
+._input.data-v-548869da{
+	margin-top: 50rpx;
+}
+.green-btn.data-v-548869da{
+	background: rgb(65,168,99);
+	color: #FFFFFF;
+	/* height: 80upx; */
+	text-align: center;
+}
+.aaa.data-v-548869da{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+}
+
